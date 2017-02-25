@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="darkgrey"> #C0C0C0</color>
+    <color name="gary">#898989</color>
+
+    <!--深黑-->
+    <color name="deep_black">#282828</color>
+    <!--浅黑-->
+    <color name="shallow_black">#666666</color>
+    <color name="white">#FFFFFF</color>
+    <color name="line_color">#BDBDBD</color>
+</resources>
